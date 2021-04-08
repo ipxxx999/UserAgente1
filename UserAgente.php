@@ -1,6 +1,6 @@
 <?php
-// Script written by Adam Khoury at www.developphp.com
-// VIDEO GUIDE - http://www.developphp.com/view.php?tid=1057
+// Script escrito por ipxxx999 https://github.com/ipxxx999/UserAgente1/edit/main/UserAgente.php
+// VIDEO GUIDE - 
 // ----------------------------------------------------------------------------------------
 // Obtain user agent which is a long string not meant for human reading
 $agent = $_SERVER['HTTP_USER_AGENT']; 
